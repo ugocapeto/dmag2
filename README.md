@@ -14,11 +14,11 @@ Test cases are given in the "test" directory.
 
 Info about dmag2 (theory behind it and how to use it) can be found here:
 
-[Depth Map Automatic Generator 2 (DMAG2)](http://3dstereophoto.blogspot.com/2013/06/depth-map-automatic-generator-2-dmag2.html)
+[Depth Map Automatic Generator 2 (DMAG2)](https://3dstereophoto.blogspot.com/2013/06/depth-map-automatic-generator-2-dmag2.html)
 
-[Stereo Matching - Local Methods](http://3dstereophoto.blogspot.com/2012/01/stereo-matching-local-methods.html)
+[Stereo Matching - Local Methods](https://3dstereophoto.blogspot.com/2012/01/stereo-matching-local-methods.html)
 
-[Weighted Windows for Stereo Correspondence Search](http://3dstereophoto.blogspot.com/2013/09/weighted-windows-for-stereo.html)
+[Weighted Windows for Stereo Correspondence Search](https://3dstereophoto.blogspot.com/2013/09/weighted-windows-for-stereo.html)
 
 Dependencies (check the Makefiles):
 
